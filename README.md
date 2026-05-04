@@ -7,7 +7,7 @@ The current theme has a strong **AI angle** — either *using* AI to build the p
 
 ## How to claim an idea
 You don't need write access. Here's the flow:
-1. Browse the [open issues](https://github.com/umbraco/Hackathon.Ideas/issues) — each one is an idea. Filter by [`available`](https://github.com/umbraco/Hackathon.Ideas/issues?q=is%3Aissue+is%3Aopen+label%3Aavailable) to see what's still up for grabs.
+1. Browse the [open issues](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues) — each one is an idea. Filter by [`available`](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues?q=is%3Aissue+is%3Aopen+label%3Aavailable) to see what's still up for grabs.
 2. Found one? **Comment "I'm claiming this"** — include who you are and (rough) who you're teaming with.
 3. A maintainer will assign you and switch the label from `available` to `claimed`.
 4. When you start coding, drop a link to your repo in the issue. We'll move it to `in-progress`.

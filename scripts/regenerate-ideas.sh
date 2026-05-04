@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # Regenerate IDEAS.md from the live GitHub issues.
 # Run automatically by .github/workflows/refresh-ideas.yml on any issue change.
-# Local usage: cd into a clone of umbraco/Hackathon.Ideas, then: bash scripts/regenerate-ideas.sh
+# Local usage: cd into a clone of umbraco/Umbraco.Hackathon.Ideas, then: bash scripts/regenerate-ideas.sh
 
 set -euo pipefail
 
-REPO="${GITHUB_REPOSITORY:-umbraco/Hackathon.Ideas}"
+REPO="${GITHUB_REPOSITORY:-umbraco/Umbraco.Hackathon.Ideas}"
 
 # Allow tests to inject fake issue data
 if [[ -n "${ISSUES_JSON_FILE:-}" ]]; then

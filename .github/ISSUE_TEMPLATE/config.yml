@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Claim an existing idea
-    url: https://github.com/umbraco/Hackathon.Ideas/issues?q=is%3Aissue+is%3Aopen+label%3Aavailable
+    url: https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues?q=is%3Aissue+is%3Aopen+label%3Aavailable
     about: Don't open a new issue to claim an idea — comment "I'm claiming this" on the existing issue.
