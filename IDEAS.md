@@ -3,7 +3,7 @@
 Auto-regenerated from [the issues](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues) on every change.
 Don't edit this file by hand — edit the issues instead.
 
-Last refresh: 2026-05-04 16:00 UTC
+Last refresh: 2026-05-04 16:04 UTC
 
 ## Available
 
@@ -26,6 +26,8 @@ Last refresh: 2026-05-04 16:00 UTC
 - [#20 AI Forms Spam Guard for Umbraco Forms](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/20)
 - [#21 AI changelog / "What's new" generator](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/21)
 - [#22 AI prompt library](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/22)
+- [#23 AI doctype designer](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/23)
+- [#24 Smart redirect suggester](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/24)
 
 ## Needs discussion
 
