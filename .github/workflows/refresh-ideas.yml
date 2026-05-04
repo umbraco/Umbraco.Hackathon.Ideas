@@ -27,12 +27,13 @@ jobs:
 
       - name: Commit if changed
         run: |
-          if git diff --quiet -- IDEAS.md; then
-            echo "No changes to IDEAS.md."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add IDEAS.md
+          # Diff against HEAD via --cached so newly-added files are also detected as changes
+          if git diff --quiet --cached -- IDEAS.md; then
+            echo "No changes to IDEAS.md."
+            exit 0
+          fi
           git commit -m "Refresh IDEAS.md from issues"
           git push
