@@ -1,0 +1,30 @@
+name: Nudge stale claims
+
+on:
+  schedule:
+    # Daily at 09:00 UTC
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  nudge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on claimed issues with no activity for 14 days
+        uses: actions/stale@v9
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          only-labels: claimed
+          days-before-stale: 14
+          days-before-close: -1
+          stale-issue-message: |
+            Hi! This idea has been `claimed` for 14 days with no activity.
+
+            Still working on it? Drop a comment so we know — even just a "yep". If you've changed your mind, no problem — comment to say so and a maintainer will flip it back to `available` so someone else can pick it up.
+          stale-issue-label: stale-claim
+          remove-stale-when-updated: true
+          exempt-issue-labels: in-progress,done
+          operations-per-run: 100

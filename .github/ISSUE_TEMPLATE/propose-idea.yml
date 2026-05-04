@@ -1,0 +1,39 @@
+name: Propose a new idea
+description: Suggest a package idea for the Umbraco Spark 2026 hackathon
+title: "[Idea] "
+labels: ["available", "needs-discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing an idea! A maintainer will tag it with theme labels and (if it's clearly hackathon-shaped) flip it from `needs-discussion` to plain `available`.
+  - type: textarea
+    id: description
+    attributes:
+      label: What's the idea?
+      description: One paragraph. What does the package do? Who's it for?
+      placeholder: A package that lets editors do X by clicking Y...
+    validations:
+      required: true
+  - type: textarea
+    id: ai-angle
+    attributes:
+      label: Where does AI fit in?
+      description: Optional. Is AI the build tool, the runtime feature, or both?
+      placeholder: Uses an LLM at runtime to suggest...
+  - type: input
+    id: similar
+    attributes:
+      label: Similar packages
+      description: Anything that already exists? (Umbraco or in another CMS)
+      placeholder: Drupal has X, WordPress has Y...
+  - type: textarea
+    id: scope
+    attributes:
+      label: Suggested scope for a 1–3 person team
+      description: What's the MVP? What's stretch?
+  - type: input
+    id: who
+    attributes:
+      label: Who's proposing this?
+      description: Your name (so we can tag you in updates)
