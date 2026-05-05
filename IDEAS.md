@@ -41,7 +41,6 @@ _(none)_
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
-| [#5](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/5) | Schema.org Blueprints / Mappings | **Submitted by:** @leekelleher **Claimed by:** @oliverpicton + Rob Carr AI bots love structured data. Map Umbraco Content Types (document,… | `delivery-api` | 0 | — |
 | [#7](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/7) | Hyrax — blog RSS + fediverse | **Submitted by:** @glombek **Claimed by:** @glombek A package that auto-generates blog RSS feeds and integrates with the fediverse. Joe's… | — | 0 | — |
 
 ## In progress
@@ -53,3 +52,4 @@ _(none)_
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
 | [#4](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/4) | Delivery API model mapper | **Submitted by:** @tristanjthompson **Claimed by:** @tristanjthompson + @georgebid A package that lets you define custom models to be… | `delivery-api` | 0 | — |
+| [#5](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/5) | Schema.org Blueprints / Mappings | **Submitted by:** @leekelleher **Claimed by:** @oliverpicton + Rob Carr AI bots love structured data. Map Umbraco Content Types (document,… | `delivery-api` | 0 | — |
