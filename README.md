@@ -33,6 +33,9 @@ Before claiming, check whether something already exists. Known AI-adjacent (and 
 - **[Complete site importer](https://www.youtube.com/watch?v=0z4E444nBPs)** (Paul Seal) — AI-assisted site/content importer. Video demo for now; not yet packaged.
 - **[UpDoc](https://marketplace.umbraco.com/package/umbraco.community.updoc)** (Dean Leigh) — generates Umbraco pages from imported PDFs.
 - **[Favourites](https://marketplace.umbraco.com/package/umbraco.community.favourites)** (Luke Hook, Gregory Dove, Sam Forrest / Gibe Digital) — pin favourite nodes to the top of the content tree.
+- **[SchemeWeaver](https://marketplace.umbraco.com/package/umbraco.community.schemeweaver)** (Oliver Picton) — map Umbraco Content Types to schema.org schemas and emit JSON-LD on the public site, so AI bots and search engines can read your structured data.
+- **[Growcreate Schema Generator](https://marketplace.umbraco.com/package/growcreate.schemagenerator)** (James Dimmer / GrowCreate) — generate schema.org structured data for Umbraco content.
+- **[Delivery API Model Mapper](https://marketplace.umbraco.com/package/umbraco.community.deliveryapimodelmapper)** (Tristan Thompson / Gibe Digital) — define custom models returned by the Delivery API, with auto-generated TypeScript definitions via the Swagger schema (v13 & v17).
 
 For the underlying framework these build on, see [Umbraco.AI](https://marketplace.umbraco.com/package/umbraco.ai) (HQ) and the [AI category on the Marketplace](https://marketplace.umbraco.com/category/artificial-intelligence) for the full picture.
 If your idea looks similar to one of these, consider building on top of it or contributing to it instead.
