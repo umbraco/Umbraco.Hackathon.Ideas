@@ -21,20 +21,31 @@ Open an issue using the **"Propose a new idea"** template. A maintainer will tag
 ## Inspiration
 For a quick overview grouped by status (available / claimed / in-progress / done), see **[IDEAS.md](IDEAS.md)** — it's auto-regenerated from the live issues on every change.
 
-Before claiming, check whether something already exists. Known AI-adjacent (and adjacent-adjacent) Umbraco packages worth knowing about:
+Before claiming, check whether something already exists. Known AI-adjacent (and adjacent-adjacent) Umbraco packages worth knowing about.
+
+### AI & AI-adjacent
+
+*Built on [Umbraco.AI](https://marketplace.umbraco.com/package/umbraco.ai):*
 - **[AI Log Analyser](https://marketplace.umbraco.com/package/umbraco.community.ai.loganalyser)** (Justin Neville) — sends Umbraco log entries through an LLM for explanation + suggested fixes.
 - **[Browser AI Provider](https://marketplace.umbraco.com/package/umbraco.community.ai.browserprovider)** (Filip Bech-Larsen) — an in-browser AI provider integration for Umbraco.AI.
 - **[Umbraco.AI.Search](https://mattbrailsford.dev/introducing-umbraco-ai-search)** (Matt Brailsford / Umbraco) — semantic vector search built on Umbraco.AI / Umbraco.Cms.Search.
 - **[Alchemy](https://marketplace.umbraco.com/package/kraftvaerk.umbraco.alchemy)** (Kaspar Boel Kjeldsen / Kraftvaerk) — AI-assisted descriptions and labels for property types and blocks.
 - **[MetaMate AI](https://marketplace.umbraco.com/package/metamateai)** (Tobias Dokken) — AI helper for editors in the backoffice.
+- **[ProWorks Umbraco.AI Page Evaluator](https://marketplace.umbraco.com/package/proworks.umbraco.ai.pageevaluator)** (ProWorks) — evaluates pages with AI: structured quality report, scored checks, suggestions.
+
+*Other AI-powered:*
 - **[AltTextAI Integration](https://marketplace.umbraco.com/package/blendinteractive.umbraco.alttextai)** (Joe Kepley / Blend Interactive) — AI alt-text and image caption generation.
 - **[umContentCreator](https://marketplace.umbraco.com/package/umcontentcreator)** (Kyrylo Osadchuk / OSKI solutions) — AI-powered content generation including alt text.
-- **[ProWorks Umbraco.AI Page Evaluator](https://marketplace.umbraco.com/package/proworks.umbraco.ai.pageevaluator)** (ProWorks) — evaluates pages with AI: structured quality report, scored checks, suggestions.
 - **[Complete site importer](https://www.youtube.com/watch?v=0z4E444nBPs)** (Paul Seal) — AI-assisted site/content importer. Video demo for now; not yet packaged.
-- **[UpDoc](https://marketplace.umbraco.com/package/umbraco.community.updoc)** (Dean Leigh) — generates Umbraco pages from imported PDFs.
-- **[Favourites](https://marketplace.umbraco.com/package/umbraco.community.favourites)** (Luke Hook, Gregory Dove, Sam Forrest / Gibe Digital) — pin favourite nodes to the top of the content tree.
+
+*AI-adjacent (structured data for AI consumers):*
 - **[SchemeWeaver](https://marketplace.umbraco.com/package/umbraco.community.schemeweaver)** (Oliver Picton) — map Umbraco Content Types to schema.org schemas and emit JSON-LD on the public site, so AI bots and search engines can read your structured data.
 - **[Growcreate Schema Generator](https://marketplace.umbraco.com/package/growcreate.schemagenerator)** (James Dimmer / GrowCreate) — generate schema.org structured data for Umbraco content.
+
+### Other Umbraco packages worth knowing about
+
+- **[UpDoc](https://marketplace.umbraco.com/package/umbraco.community.updoc)** (Dean Leigh) — generates Umbraco pages from imported PDFs.
+- **[Favourites](https://marketplace.umbraco.com/package/umbraco.community.favourites)** (Luke Hook, Gregory Dove, Sam Forrest / Gibe Digital) — pin favourite nodes to the top of the content tree.
 - **[Delivery API Model Mapper](https://marketplace.umbraco.com/package/umbraco.community.deliveryapimodelmapper)** (Tristan Thompson / Gibe Digital) — define custom models returned by the Delivery API, with auto-generated TypeScript definitions via the Swagger schema (v13 & v17).
 
 For the underlying framework these build on, see [Umbraco.AI](https://marketplace.umbraco.com/package/umbraco.ai) (HQ) and the [AI category on the Marketplace](https://marketplace.umbraco.com/category/artificial-intelligence) for the full picture.
