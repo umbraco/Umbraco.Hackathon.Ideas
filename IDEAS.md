@@ -37,7 +37,7 @@ Last refresh: 2026-05-06 10:12 UTC
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
-| [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | — | 0 | — |
+| [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: Review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | — | 0 | — |
 
 ## Claimed
 
