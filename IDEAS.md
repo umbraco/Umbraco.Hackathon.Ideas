@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-06 11:46 UTC
+Last refresh: 2026-05-06 11:47 UTC
 
 ## Available
 
@@ -38,8 +38,8 @@ Last refresh: 2026-05-06 11:46 UTC
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
 | [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: Review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | `ai` `editor-ux` | 0 | — |
-| [#27](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/27) | Culture variations check/sync | ### What's the idea? Ask the AI to check all culture variants of a page and point out if anything is missing in a any culture. E.g. * The… | `ai` `editor-ux` | 0 | — |
-| [#28](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/28) | Related/relevant Content Picker | ### What's the idea? A Property Editor that uses AI + RAG to find relevant content. Each Data Type can configure a specific prompt to give… | `ai` `editor-ux` | 0 | — |
+| [#27](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/27) | AI: Culture variations check/sync | ### What's the idea? Ask the AI to check all culture variants of a page and point out if anything is missing in a any culture. E.g. * The… | `ai` `editor-ux` | 0 | — |
+| [#28](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/28) | AI: Related/relevant Content Picker | ### What's the idea? A Property Editor that uses AI + RAG to find relevant content. Each Data Type can configure a specific prompt to give… | `ai` `editor-ux` | 0 | — |
 
 ## Claimed
 
