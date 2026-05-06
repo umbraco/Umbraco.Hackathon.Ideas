@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-06 10:12 UTC
+Last refresh: 2026-05-06 10:14 UTC
 
 ## Available
 
@@ -38,6 +38,7 @@ Last refresh: 2026-05-06 10:12 UTC
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
 | [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: Review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | — | 0 | — |
+| [#27](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/27) | AI: Language version sync | ### What's the idea? Ask the AI to check all culture variants of a page and point out if anything is missing in a any culture. E.g. * The… | — | 0 | — |
 
 ## Claimed
 
