@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-06 10:16 UTC
+Last refresh: 2026-05-06 10:17 UTC
 
 ## Available
 
