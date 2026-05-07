@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-06 13:19 UTC
+Last refresh: 2026-05-07 13:30 UTC
 
 ## Available
 
@@ -16,7 +16,7 @@ Last refresh: 2026-05-06 13:19 UTC
 | [#3](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/3) | Undo Publish | **Submitted by:** @SamuelJForrest Add a way to quickly revert back to the previous version of a content node. Put the button next to the… | `editor-ux` | 0 | — |
 | [#6](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/6) | GitHub integration package | **Submitted by:** @leekelleher A general 'GitHub integration' for Umbraco that could house several integrations: Gist code snippet listing… | `integration` | 0 | — |
 | [#8](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/8) | AI auto-mapping for property migration | **Submitted by:** @rsoeteman A sample/reference package showing how AI can auto-map properties during migration. Use case from CMSImport:… | `ai` `integration` | 0 | — |
-| [#9](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/9) | Onboarding co-editor | An in-backoffice assistant that answers questions like 'how do I add a testimonial to the homepage?' using *this* site's information… | `ai` `editor-ux` | 0 | — |
+| [#9](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/9) | Onboarding co-editor | An in-backoffice assistant that answers questions like 'how do I add a testimonial to the homepage?' using *this* site's information… | `ai` `editor-ux` | 0 | @tianxueqin666 |
 | [#10](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/10) | Suggest internal link target | While editing, suggest internal links to existing content in the site. Pairs nicely with Umbraco.AI.Search (RAG over existing content) —… | `ai` `editor-ux` | 0 | — |
 | [#11](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/11) | Content Model Archaeologist | Scan Document Types and produce findings: - 'These two doctypes are 90% the same — consider merging or extracting a composition' - 'This… | `ai` | 0 | — |
 | [#12](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/12) | Scheduled-Publish Reviewer | Runs each morning. Surfaces the scheduled-publish queue with a risk read: which drafts depend on other drafts, which scheduled items have… | `ai` `editor-ux` | 0 | — |
@@ -37,8 +37,8 @@ Last refresh: 2026-05-06 13:19 UTC
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
+| [#28](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/28) | AI: Related/relevant Content Picker | ### What's the idea? A Property Editor that uses AI + RAG to find relevant content. Each Data Type can configure a specific prompt to give… | `ai` `editor-ux` | 1 | — |
 | [#27](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/27) | AI: Culture variations check/sync | ### What's the idea? Ask the AI to check all culture variants of a page and point out if anything is missing in a any culture. E.g. * The… | `ai` `editor-ux` | 0 | — |
-| [#28](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/28) | AI: Related/relevant Content Picker | ### What's the idea? A Property Editor that uses AI + RAG to find relevant content. Each Data Type can configure a specific prompt to give… | `ai` `editor-ux` | 0 | — |
 
 ## Claimed
 
