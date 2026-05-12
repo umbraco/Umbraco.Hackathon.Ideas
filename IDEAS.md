@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-07 13:31 UTC
+Last refresh: 2026-05-12 11:13 UTC
 
 ## Available
 
@@ -20,7 +20,7 @@ Last refresh: 2026-05-07 13:31 UTC
 | [#10](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/10) | Suggest internal link target | While editing, suggest internal links to existing content in the site. Pairs nicely with Umbraco.AI.Search (RAG over existing content) —… | `ai` `editor-ux` | 0 | — |
 | [#11](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/11) | Content Model Archaeologist | Scan Document Types and produce findings: - 'These two doctypes are 90% the same — consider merging or extracting a composition' - 'This… | `ai` | 0 | — |
 | [#12](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/12) | Scheduled-Publish Reviewer | Runs each morning. Surfaces the scheduled-publish queue with a risk read: which drafts depend on other drafts, which scheduled items have… | `ai` `editor-ux` | 0 | — |
-| [#13](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/13) | Media Janitor | Cleans up the Media section: duplicates, items unused since 2022, items with no alt text or label, oversized originals. Could lean on… | `ai` `editor-ux` | 0 | @gonziii |
+| [#13](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/13) | Media Janitor | Cleans up the Media section: duplicates, items unused since 2022, items with no alt text or label, oversized originals. Could lean on… | `ai` `editor-ux` | 0 | — |
 | [#14](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/14) | Site Audit Run | Crawls Document Types + content and produces a structured report: dead types (no instances), stale content (not updated in N years), orphan… | `ai` | 0 | — |
 | [#15](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/15) | Seasonal refresh run | Find all pages mentioning '2025' / last year's campaigns / dated copy → draft suggested updates → queue for editor approval. The… | `ai` `editor-ux` | 0 | — |
 | [#16](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/16) | AI Translate — one-click multilingual | One-click translation of a node into all configured languages. Should respect Umbraco's variants/segments and skip already-translated… | `ai` `editor-ux` | 0 | — |
