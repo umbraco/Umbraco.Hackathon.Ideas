@@ -28,6 +28,7 @@ Before claiming, check whether something already exists. Known AI-adjacent (and 
 *Built on [Umbraco.AI](https://marketplace.umbraco.com/package/umbraco.ai):*
 - **[AI Log Analyser](https://marketplace.umbraco.com/package/umbraco.community.ai.loganalyser)** (Justin Neville) — sends Umbraco log entries through an LLM for explanation + suggested fixes.
 - **[Browser AI Provider](https://marketplace.umbraco.com/package/umbraco.community.ai.browserprovider)** (Filip Bech-Larsen) — an in-browser AI provider integration for Umbraco.AI.
+- **[Chatbot](https://marketplace.umbraco.com/package/umbraco.community.ai.chatbot)** (Filip Bech-Larsen) — a chatbot for Umbraco built on Umbraco.AI.
 - **[Umbraco.AI.Search](https://mattbrailsford.dev/introducing-umbraco-ai-search)** (Matt Brailsford / Umbraco) — semantic vector search built on Umbraco.AI / Umbraco.Cms.Search.
 - **[Alchemy](https://marketplace.umbraco.com/package/kraftvaerk.umbraco.alchemy)** (Kaspar Boel Kjeldsen / Kraftvaerk) — AI-assisted descriptions and labels for property types and blocks.
 - **[MetaMate AI](https://marketplace.umbraco.com/package/metamateai)** (Tobias Dokken) — AI helper for editors in the backoffice.
