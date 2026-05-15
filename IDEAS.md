@@ -5,13 +5,12 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-15 14:55 UTC
+Last refresh: 2026-05-15 14:56 UTC
 
 ## Available
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
-| [#19](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/19) | llms.txt generator | Auto-publish a machine-readable index of site content for LLMs at inference time, following the emerging `llms.txt` convention. Cheap,… | `ai` `delivery-api` | 1 | — |
 | [#1](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/1) | Autosave for the whole content node | **Submitted by:** @stevetemple We played around with this for SkrivLet — persisting changes to local storage so that if the browser closes… | `editor-ux` | 0 | — |
 | [#2](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/2) | Focus Mode for the backoffice | **Submitted by:** @SamuelJForrest Allow editors to remove distracting parts of the backoffice (content tree, sections, etc.) while editing.… | `editor-ux` | 0 | — |
 | [#3](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/3) | Undo Publish | **Submitted by:** @SamuelJForrest Add a way to quickly revert back to the previous version of a content node. Put the button next to the… | `editor-ux` | 0 | — |
@@ -55,6 +54,7 @@ Last refresh: 2026-05-15 14:55 UTC
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
+| [#19](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/19) | llms.txt generator | Auto-publish a machine-readable index of site content for LLMs at inference time, following the emerging `llms.txt` convention. Cheap,… | `ai` `delivery-api` | 1 | — |
 | [#4](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/4) | Delivery API model mapper | **Submitted by:** @tristanjthompson **Claimed by:** @tristanjthompson + @georgebid A package that lets you define custom models to be… | `delivery-api` | 0 | — |
 | [#5](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/5) | Schema.org Blueprints / Mappings | **Submitted by:** @leekelleher **Claimed by:** @oliverpicton + Rob Carr AI bots love structured data. Map Umbraco Content Types (document,… | `delivery-api` | 0 | — |
 | [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: Review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | `ai` `editor-ux` | 0 | — |
