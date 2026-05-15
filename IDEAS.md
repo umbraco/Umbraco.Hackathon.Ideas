@@ -5,12 +5,13 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-12 11:13 UTC
+Last refresh: 2026-05-15 14:55 UTC
 
 ## Available
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
+| [#19](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/19) | llms.txt generator | Auto-publish a machine-readable index of site content for LLMs at inference time, following the emerging `llms.txt` convention. Cheap,… | `ai` `delivery-api` | 1 | — |
 | [#1](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/1) | Autosave for the whole content node | **Submitted by:** @stevetemple We played around with this for SkrivLet — persisting changes to local storage so that if the browser closes… | `editor-ux` | 0 | — |
 | [#2](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/2) | Focus Mode for the backoffice | **Submitted by:** @SamuelJForrest Allow editors to remove distracting parts of the backoffice (content tree, sections, etc.) while editing.… | `editor-ux` | 0 | — |
 | [#3](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/3) | Undo Publish | **Submitted by:** @SamuelJForrest Add a way to quickly revert back to the previous version of a content node. Put the button next to the… | `editor-ux` | 0 | — |
@@ -26,8 +27,6 @@ Last refresh: 2026-05-12 11:13 UTC
 | [#16](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/16) | AI Translate — one-click multilingual | One-click translation of a node into all configured languages. Should respect Umbraco's variants/segments and skip already-translated… | `ai` `editor-ux` | 0 | — |
 | [#17](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/17) | AI Tone Adjuster | Rewrite a property's content in a chosen tone (formal / friendly / marketing / academic) directly from the property editor. | `ai` `editor-ux` | 0 | — |
 | [#18](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/18) | AI Bulk Tagger / Taxonomy Suggester | Suggest tags from a configured taxonomy based on content. Single-node version in the property editor; bulk version that re-tags hundreds of… | `ai` `editor-ux` | 0 | — |
-| [#19](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/19) | llms.txt generator | Auto-publish a machine-readable index of site content for LLMs at inference time, following the emerging `llms.txt` convention. Cheap,… | `ai` `delivery-api` | 0 | — |
-| [#20](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/20) | AI Forms Spam Guard for Umbraco Forms | Pre-submit check on Umbraco Forms submissions: detect AI-generated junk and obvious spam before the row hits the database. Could feed back… | `ai` | 0 | — |
 | [#21](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/21) | AI changelog / "What's new" generator | Auto-build a public "What's new" page (or RSS feed, or both) from recent content changes. The LLM groups edits by theme and writes… | `ai` | 0 | — |
 | [#22](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/22) | AI prompt library | A curated collection of pre-written prompts editors pick from for common content tasks — "rewrite as a headline", "shorten to tweet… | `ai` `framework` | 0 | — |
 | [#23](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/23) | AI doctype designer | Describe a content structure in plain English — "I need a recipe page with a title, hero image, ingredients list, prep time, cook time,… | `ai` | 0 | — |
@@ -48,7 +47,9 @@ Last refresh: 2026-05-12 11:13 UTC
 
 ## In progress
 
-_(none)_
+| # | Title | Description | Labels | 👍 | Assignees |
+|---|-------|-------------|--------|----|-----------|
+| [#20](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/20) | AI Forms Spam Guard for Umbraco Forms | Pre-submit check on Umbraco Forms submissions: detect AI-generated junk and obvious spam before the row hits the database. Could feed back… | `ai` | 0 | — |
 
 ## Done
 
