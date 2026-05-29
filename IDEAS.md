@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-15 14:56 UTC
+Last refresh: 2026-05-29 12:56 UTC
 
 ## Available
 
@@ -42,13 +42,11 @@ Last refresh: 2026-05-15 14:56 UTC
 
 | # | Title | Description | Labels | 👍 | Assignees |
 |---|-------|-------------|--------|----|-----------|
-| [#7](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/7) | Hyrax — blog RSS + fediverse | **Submitted by:** @glombek **Claimed by:** @glombek A package that auto-generates blog RSS feeds and integrates with the fediverse. Joe's… | — | 0 | — |
+| [#7](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/7) | Hyrax — blog RSS + fediverse | **Submitted by:** @glombek **Claimed by:** @glombek A package that auto-generates blog RSS feeds and integrates with the fediverse. Joe's… | `stale-claim` | 0 | — |
 
 ## In progress
 
-| # | Title | Description | Labels | 👍 | Assignees |
-|---|-------|-------------|--------|----|-----------|
-| [#20](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/20) | AI Forms Spam Guard for Umbraco Forms | Pre-submit check on Umbraco Forms submissions: detect AI-generated junk and obvious spam before the row hits the database. Could feed back… | `ai` | 0 | — |
+_(none)_
 
 ## Done
 
@@ -57,4 +55,5 @@ Last refresh: 2026-05-15 14:56 UTC
 | [#19](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/19) | llms.txt generator | Auto-publish a machine-readable index of site content for LLMs at inference time, following the emerging `llms.txt` convention. Cheap,… | `ai` `delivery-api` | 1 | — |
 | [#4](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/4) | Delivery API model mapper | **Submitted by:** @tristanjthompson **Claimed by:** @tristanjthompson + @georgebid A package that lets you define custom models to be… | `delivery-api` | 0 | — |
 | [#5](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/5) | Schema.org Blueprints / Mappings | **Submitted by:** @leekelleher **Claimed by:** @oliverpicton + Rob Carr AI bots love structured data. Map Umbraco Content Types (document,… | `delivery-api` | 0 | — |
+| [#20](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/20) | AI Forms Spam Guard for Umbraco Forms | Pre-submit check on Umbraco Forms submissions: detect AI-generated junk and obvious spam before the row hits the database. Could feed back… | `ai` | 0 | — |
 | [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: Review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | `ai` `editor-ux` | 0 | — |
