@@ -1,9 +1,9 @@
 # Umbraco Hackathon Ideas
-A consolidated list of Umbraco package ideas — for any hackathon (Spark, Codegarden community days, retreats, your local meetup). Pick an idea, team up, build something demoable.
+A consolidated list of Umbraco extension/package ideas — for any hackathon (Spark, Codegarden, community days, retreats, your local meetup). Pick an idea, team up and start making something.
 
 ## What is this?
-A hackathon is a build-something event where you grab a small team (1–3 people), pick an idea, and ship a demoable package by the end. This repo is the list of ideas.
-The current theme has a strong **AI angle** — either *using* AI to build the package or *adding* AI to help editors in Umbraco — but other Umbraco-related ideas are welcome too.
+A hackathon is a build-something event where you grab a small team (1–3 people), pick an idea, and hopefully have something to demo to everyone by the end. This repo has a list of ideas to help if you need inspiration.
+The current theme has a strong **AI angle** — either *using* AI to build or *adding* AI to help editors in Umbraco — but other Umbraco-related ideas are welcome too. Especially extending **Umbraco Automate** - the drag-and-drop automation engine that runs right in the backoffice that was released on July 9th - it's free and open-source!
 
 ## How to claim an idea
 You don't need write access. Here's the flow:
@@ -11,7 +11,7 @@ You don't need write access. Here's the flow:
 2. Found one? **Comment "I'm claiming this"** — include who you are and (rough) who you're teaming with.
 3. A maintainer will assign you and switch the label from `available` to `claimed`.
 4. When you start coding, drop a link to your repo in the issue. We'll move it to `in-progress`.
-5. Demo when it's ready. We'll close the issue with `done` and a link to the package.
+5. Demo when it's ready. We'll close the issue with `done` and a link to your repository (or package).
 
 If life happens and you can't finish, comment on the issue so it can go back to `available`. No drama.
 
@@ -44,14 +44,20 @@ Before claiming, check whether something already exists. Known AI-adjacent (and 
 - **[SchemeWeaver](https://marketplace.umbraco.com/package/umbraco.community.schemeweaver)** (Oliver Picton) — map Umbraco Content Types to schema.org schemas and emit JSON-LD on the public site, so AI bots and search engines can read your structured data.
 - **[Growcreate Schema Generator](https://marketplace.umbraco.com/package/growcreate.schemagenerator)** (James Dimmer / GrowCreate) — generate schema.org structured data for Umbraco content.
 
+### Check the Marketplace!
+
+Before you start on a new idea, please check whether something similar already exists on the Marketplace:
+
+- [**AI category** on the Marketplace](https://marketplace.umbraco.com/category/artificial-intelligence)
+- [**Automate filter** on the Marketplace](https://marketplace.umbraco.com/search/automate)
+
+If your idea looks similar to one of these, consider building on top of it or contributing to it instead.
+
 ### Other Umbraco packages worth knowing about
 
 - **[UpDoc](https://marketplace.umbraco.com/package/umbraco.community.updoc)** (Dean Leigh) — generates Umbraco pages from imported PDFs.
 - **[Favourites](https://marketplace.umbraco.com/package/umbraco.community.favourites)** (Luke Hook, Gregory Dove, Sam Forrest / Gibe Digital) — pin favourite nodes to the top of the content tree.
 - **[Delivery API Model Mapper](https://marketplace.umbraco.com/package/umbraco.community.deliveryapimodelmapper)** (Tristan Thompson / Gibe Digital) — define custom models returned by the Delivery API, with auto-generated TypeScript definitions via the Swagger schema (v13 & v17).
-
-For the underlying framework these build on, see [Umbraco.AI](https://marketplace.umbraco.com/package/umbraco.ai) (HQ) and the [AI category on the Marketplace](https://marketplace.umbraco.com/category/artificial-intelligence) for the full picture.
-If your idea looks similar to one of these, consider building on top of it or contributing to it instead.
 
 ## Labels
 | Label | Meaning |
@@ -70,4 +76,6 @@ If your idea looks similar to one of these, consider building on top of it or co
 
 ## Handy links
 
-- **[ Setting Up a New Umbraco Package Dev Environment with Umbraco.AI ](https://dev.to/cultiv/setting-up-a-new-umbraco-package-dev-environment-with-umbracoai-3iac)**  — (Sebastiaan Janssen / Umbraco HQ)
+- **[Umbraco Automate Launch Blog Post](https://umbraco.com/blog/launching-umbraco-automate/)**  — (Umbraco HQ)
+- **[Umbraco.AI](https://marketplace.umbraco.com/package/umbraco.ai)** - the base framework for Umbraco.AI extensions (Umbraco HQ)
+- **[Setting Up a New Umbraco Package Dev Environment with Umbraco.AI](https://dev.to/cultiv/setting-up-a-new-umbraco-package-dev-environment-with-umbracoai-3iac)**  — (Sebastiaan Janssen / Umbraco HQ)
