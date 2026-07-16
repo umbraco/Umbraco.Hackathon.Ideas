@@ -5,7 +5,7 @@ Don't edit this file by hand — edit the issues instead.
 
 Within each section, ideas are sorted by 👍 reactions (highest first). React on the issue itself to vote!
 
-Last refresh: 2026-05-29 13:19 UTC
+Last refresh: 2026-07-16 13:46 UTC
 
 ## Available
 
@@ -29,7 +29,6 @@ Last refresh: 2026-05-29 13:19 UTC
 | [#21](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/21) | AI changelog / "What's new" generator | Auto-build a public "What's new" page (or RSS feed, or both) from recent content changes. The LLM groups edits by theme and writes… | `ai` | 0 | — |
 | [#22](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/22) | AI prompt library | A curated collection of pre-written prompts editors pick from for common content tasks — "rewrite as a headline", "shorten to tweet… | `ai` `framework` | 0 | — |
 | [#23](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/23) | AI doctype designer | Describe a content structure in plain English — "I need a recipe page with a title, hero image, ingredients list, prep time, cook time,… | `ai` | 0 | — |
-| [#24](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/24) | Smart redirect suggester | When content gets moved, renamed, or deleted, automatically suggest the most likely 301 target. The AI looks at: - **URL similarity** —… | `ai` `editor-ux` | 0 | — |
 
 ## Needs discussion
 
@@ -57,4 +56,5 @@ Last refresh: 2026-05-29 13:19 UTC
 | [#19](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/19) | llms.txt generator | Auto-publish a machine-readable index of site content for LLMs at inference time, following the emerging `llms.txt` convention. Cheap,… | `ai` `delivery-api` | 1 | — |
 | [#4](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/4) | Delivery API model mapper | **Submitted by:** @tristanjthompson **Claimed by:** @tristanjthompson + @georgebid A package that lets you define custom models to be… | `delivery-api` | 0 | — |
 | [#5](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/5) | Schema.org Blueprints / Mappings | **Submitted by:** @leekelleher **Claimed by:** @oliverpicton + Rob Carr AI bots love structured data. Map Umbraco Content Types (document,… | `delivery-api` | 0 | — |
+| [#24](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/24) | Smart redirect suggester | When content gets moved, renamed, or deleted, automatically suggest the most likely 301 target. The AI looks at: - **URL similarity** —… | `ai` `editor-ux` | 0 | — |
 | [#26](https://github.com/umbraco/Umbraco.Hackathon.Ideas/issues/26) | AI: Review this page | ### What's the idea? Ability to create a site wide context + doc type specific (maybe even property level) and ask the AI to review the… | `ai` `editor-ux` | 0 | — |
